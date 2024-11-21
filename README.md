@@ -1,1 +1,1 @@
-# This repository contains the R scripts for the bioinformatics analyses for Soni at al. 2023.
+# This repository contains R scripts for the bioinformatics analyses for Soni at al. 2023.
